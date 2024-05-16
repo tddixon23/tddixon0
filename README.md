@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tddixon0
+- 👋 Hi, I’m @tddixon23
 - 👀 I’m interested in learning new coding languages
 - 🌱 I’m currently learning Advanced Java Topics
 - 💞️ I’m looking to collaborate on any OOP Java projects
